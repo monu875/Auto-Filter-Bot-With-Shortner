@@ -42,16 +42,16 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Developerr")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/developerr_Bots_support')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Developere_Bots')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/developerr_Bots_Support')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Historical_full_Movies')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+TmNSfvTY9OBjZDg1')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/LeoBotsUpdate')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', ''))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', ''))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/Purohit_Movies_backup')
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://youtu.be/sJ4fs5X60PI')
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/padmavati_full_movies')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/padmavati_full_movies')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
